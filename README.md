@@ -8,7 +8,7 @@ A modern iOS application for tracking personal expenses, built with a hybrid app
 * `UIKit`
 * `UICollectionView`
   * `CompositionalLayout`
-  * `Custom Cell`
+  * `UICollectionViewCell`
 * `Core animation`
 * `SwiftUI`
 * `MVVM Architecture`
