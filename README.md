@@ -1,4 +1,4 @@
-# Pet Expenses App
+# Expenses App
 
 A modern iOS application for tracking personal expenses, built with a hybrid approach using UIKit and SwiftUI. I built this side project to master programmatic UI, compositional layouts, and the MVVM architecture. The app focuses on a fluid, interactive user experience with real-time visual feedback.
 
